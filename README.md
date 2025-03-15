@@ -34,7 +34,7 @@ A configuration file that stores environment variables such as:
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/vps-backup-automation.git
+git clone https://github.com/darkfire13/vps-backup-automation.git
 cd vps-backup-automation
 ```
 
