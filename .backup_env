@@ -1,0 +1,11 @@
+# echo 'TELEGRAM_BOT_TOKEN="your_bot_token"' > /root/.backup_env
+# echo 'TELEGRAM_CHAT_ID="your_chat_id"' >> /root/.backup_env
+# echo 'DB_USER="your_mysql_user"' >> /root/.backup_env
+# echo 'DB_PASS="your_mysql_password"' >> /root/.backup_env
+# chmod 600 /root/.backup_env  # Access only for root
+#
+#
+TELEGRAM_BOT_TOKEN="your_bot_token"
+TELEGRAM_CHAT_ID="your_chat_id"
+DB_USER="your_mysql_user"
+DB_PASS="your_mysql_password"
